@@ -1,2 +1,5 @@
 # hello-world
-This is my repository.
+
+Hello there!
+
+This is Ariannemae Alocillo. I like to learn more about coding especially in java.  
